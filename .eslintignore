@@ -3,4 +3,9 @@
 
 # Do not ignore these folders:
 !__tests__/
+!src/# Ignore list
+/*
+
+# Do not ignore these folders:
+!__tests__/
 !src/
